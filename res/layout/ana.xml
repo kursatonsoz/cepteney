@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    tools:context=".CepteNey" >
+
+    <Button
+        android:id="@+id/neydugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="100dp"
+        android:text="Ney ve Neyzen" />
+
+    <Button
+        android:id="@+id/neyzendugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/neydugme"
+        android:layout_marginTop="30dp"
+        android:text="Neyzenler" />
+
+    <Button
+        android:id="@+id/notadugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="30dp"
+        android:text="Notalar" />
+
+</RelativeLayout>

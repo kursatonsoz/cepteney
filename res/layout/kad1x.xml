@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/fadugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="2.5dp"
+        android:text="Fa" />
+
+    <Button
+        android:id="@+id/fadidugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Fa Diyez" />
+
+    <Button
+        android:id="@+id/midugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Mi" />
+
+    <Button
+        android:id="@+id/redugme"
+        android:layout_width="fill_parent"
+       android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Re" />
+
+    <Button
+        android:id="@+id/dodugme"
+        android:layout_width="fill_parent"
+       android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Do" />
+
+    <Button
+        android:id="@+id/dodidugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+       android:layout_marginTop="9dp"
+        android:text="Do Diyez" />
+
+    <Button
+        android:id="@+id/sidugme"
+        android:layout_width="fill_parent"
+       android:layout_height="40dp"
+       android:layout_marginTop="9dp"
+        android:text="Si" />
+
+    <Button
+        android:id="@+id/sibedugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Si Bemol" />
+
+    <Button
+        android:id="@+id/ladugme"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="La" />
+
+    <Button
+        android:id="@+id/soldugme"
+        android:layout_width="fill_parent"
+       android:layout_height="40dp"
+        android:layout_marginTop="9dp"
+        android:text="Sol" />
+
+</LinearLayout>

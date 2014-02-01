@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/re2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Re" />
+
+    <Button
+        android:id="@+id/do2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Do" />
+
+    <Button
+        android:id="@+id/dodi2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Do Diyez" />
+
+    <Button
+        android:id="@+id/si2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Si" />
+
+    <Button
+        android:id="@+id/sibe2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Si Bemol" />
+
+    <Button
+        android:id="@+id/la2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="La" />
+
+    <Button
+        android:id="@+id/sol2dugme"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Sol" />
+
+</LinearLayout>

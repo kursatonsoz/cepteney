@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="119dp" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KLASİK TÜRK MÜZİĞİNİN ve TÜRK TASAVVUF MÜZİĞİNİN TEK NEFESLİ SAZI : NEY
+Ney, Klâsik Türk Müziği’nin tek nefesli sazı ve Türk Tasavvuf Müziği’nin baş sazıdır. Bu sazın en eski adı olan nâ veya nay, Sümerceden Farsçaya geçen bir sözcük olup, kamış, kargı anlamına gelir. Arap toplumunda üflemeli çalgıların hemen tümü için kullanılan, nefes borusu veya ses organı anlamındaki mizmâr sözcüğü de, az da olsa ney için kullanılmıştır. Türkçede ise hemen her zaman bu saza ney denmiştir. Ney, çeşitli Avrupa ülkelerinde ise benzer adlarla (örneğin Romanyada naiu adıyla) anılmıştır. Farsça, çalan, icrâ eden anlamına gelen -zeden sözcük eki ile takılanarak oluşturulan neyzeden, zamanla bozularak, ney icrâcısı anlamında günümüzde de kullanılan neyzene dönüşmüştür. Arapça kurallarına göre oluşturulan nâyî sözcüğü de neyzen yerine kullanılagelmiştir.
+Sümer toplumunda MÖ 5000 yıllarından itibaren kullanıldığı sanılan bu saza ait elimizdeki en eski bulgu, MÖ 2800-3000 yıllarından kalan, bugün Amerikada Phledelphia Üniversitesi Müzesi’nde sergilenen neydir. Neyin o dönemlerde de dinsel törenlerde kullanıldığı sanılmaktadır. Assomption rahiplerinden Thibaut’un “esrârengiz, cezbedici, tatlı ve âhenkli bir ses” diye tanımladığı ve şu şekilde şiirleştirdiği ney sadâsı, her dönemde insanları derinden etkilemiş ve özellikle dinsel duyguları çağrıştırmıştır:
+“ Kamışların üzerinden geçerken, kuşları uyandırmaya korkan tatlı bir meltemin kanat çırpınışları…”
+Sadâsından gelen bu özellik neyi, ilişkide bulunduğu her toplumda önemli bir saz hâline getirmiştir. Türklerin İslâmiyeti kabûl ile birlikte kullanmaya başladıkları ney, Xlll. yüzyıldan itibaren tasavvufun da sembolü hâline gelmiştir. Bunda, bu yüzyılda yaşamış büyük mutasavvıf, filozof , şâir ve velî Mevlânâ Celâleddin-i Rûmî’nin rolü büyüktür.
+XV. yüzyılda yaşamış bir gezgin olan Hoca Gıyaseddin Nakkaş’ın seyahatnâmesinde kendilerine mahsus bir nota yazısı geliştirip kullandıklarını da bildiğimiz Hıtay Türkleri’nin hâkanlık sarayından naklettikleri oldukça ilginçtir:
+“ Sadinfu şehrindeki hâkanlık sarayının önünde üçyüzbin kadar kadın ve erkek toplanmıştı. İkibin kadar sâzende sazlarını aynı sese düzenleyip (akord edip), hep bir ağızdan hâkana duâ ettiler. Köslerin iki yanlarında kemençe, ney, mûsikâr ve diğer sazlarla hânendeler oturmuşlardı. Neyzenlerin bazıları neyi bilindiği üzere çalıp, bazıları ortasındaki deliklerden üflüyorlardı.”
+Bu anlatılanlardan mûsikîde çok ileri gittikleri bilinen Hıtay Türkleri’nin neyi, Orta Asya’da eskiden beri kullandıkları ve hatta onu tıpkı bir yan flüt gibi de üfledikleri anlaşılmaktadır.
+Tarihte Nây-ı Türkî, Hoş Nây (veya Koş Ney), Kurre Nây gibi adlarla anılan bugün yapısını ve özelliklerini tam olarak bilemediğimiz ney adından türemiş pek çok saz bulunmaktadır. Ancak birer meydan sazı olarak kullanılan bu sazların bugünkü ney formundan çok farklı olduğunu sanıyoruz.
+Türklerin İslâmlaşma süreci X. yüzyılda başlamıştı. İslâmiyet ile birlikte zaten toplumda var olan mistik düşünce ve anlayış islâmî bir kimliğe bürünerek, Türk tasavvuf anlayışının temellerini oluşturdu. Hoca Ahmet Yesevî, Hacı Bektâş-ı Velî, Yunus Emre ve Mevlânâ Celâleddîn-i Rûmî bu anlayışın Türk toplum hayatına yerleşmesini sağlamışlardı.
+Türklerin İslâmiyetten önceki dinleri olan Şamanizm, Animizm ve Totemizmde de mûsikînin çok önemli rolü vardı. Bu dinlerin tümünde törenler müzik eşliğinde yapılırdı. Örneğin çoğunlukla hâkim olan Şamanizmde kam, baksı veya şaman denilen din adamları ellerinde kopuz ile dolaşır, dînî mesajlarını mûsikî yardımıyla iletirlerdi. 
+Türklerin dînî hayatlarında, özellikle tekke hayatında, âyin ve diğer dînî törenlerde (cem, zikir, deverân vs.) mûsikînin rolü büyükse de bir çok tarîkatin törenlerinde telli çalgıların yer almasına izin verilmemiştir. Ancak törenlerinde saz kullanan hemen bütün tarîkatlerin törenlerinde bendir ile birlikte ney, baş saz olarak yerini almıştır.
+Bilhassa Mevlevîlikte neyin önemi çok büyüktür. Hz.Mevlânâ’nın Mesnevî’si şu dizelerle başlar:
+“Bişnev ez ney çün hikâyet mî küned
+Ez cüdâyîhâ şikâyet mî küned 
+Gez neyistân tâ merâ bübrîde end
+Ez nefîrem merd ü zen nâlîde end
+Sîne hâhem şerha şerha ez firâk
+Tâ begûyem şerh-i derd-i iştiyâk ”
+“Dinle neyden, zirâ o bir şeyler anlatmada
+Ayrılıklardan şikâyet etmededir.
+Ney der ki: Beni kamışlıktan kopardıklarından beri,
+İniltim kadın - erkek herkesi ağlattı.
+Ayrılık bağrımı delik deşik eylesin,
+Tâ ki aşk derdini anlatabileyim.”
+Hz.Mevlânâ’ya göre mûsikî Allah’ın lisânıdır. Yüce Yaratıcı Bezm-i Elest’te ruhlara mûsikî ile seslenmiştir. Bu sebepten hangi ırktan, hangi renkten, hangi milletten, hangi dilden veya hangi dinden olurlarsa olsunlar, tüm insanlar mûsikî ile aynı duyguları paylaşabilirler. Hiçbir sanat insan rûhuna mûsikî kadar doğrudan doğruya ve içinden kavrayacak şekilde nüfûz edemez. Mûsikî, son derece değerli bir mânevî temizlenme, ferahlama ve yücelme vâsıtasıdır. Rûhu kir ve paslardan temizlediği gibi, ona batmış olan dikenleri de ayıklayarak tedâvi eder. Mûsikî ile temizlenmeyen rûh yükselemez, aksine yerdeki bayağı ihtiraslara bulaşarak kirlenir ve körelir. Gerçek mûsikî insana hayvânî hisleri hatırlatmak şöyle dursun, ona “sonsuz varlık”ı hissettirir, sezdirir. Bu sezgiyle onu O’na yaklaştırır ve nihâyet ulaştırır. Bunda en etkili ses ise ney sadâsıdır.
+Hz.Mevlânâ’nın fesefesinde ney, “insan-ı kâmil” in (yani bir takım merhalelerden geçerek olgunlaşmış insanın) sembolüdür ve aşk derdini anlatmadadır. Benzi sararmış, içi boşalmış, bağrı dağlanarak delikler açılmış, ancak, Yüce Yaratıcı’ nın üflediği nefesle hayat bulan, tıpkı insan gibi geldiği yere özlem duyan ve delik deşik olmuş sînesinden çıkan feryâd ve iniltileri ile insanlara sırlar fısıldayan bir dosttur. Bu sebeple ney, mevlevîlerce kutsanmış ve “nây-ı şerîf” diye anılmıştır.
+“Ney hadîs-i râh-ı pür hûn mîküned
+Kıssahâ-yı ışk-ı Mecnûn mîküned”
+“Ney, kanla dolu bir yoldan bahsetmede,
+Mecnûn’ un aşkından hikâyeler anlatmadadır”
+“Âteş-i ışkest ke’ender ney fütâd
+Cûşiş-i ışkest ke’ender mey fütâd”
+“Aşk âteşi ki neyin içine düşmüştür,
+Aşk coşkunluğu ki meyin içine düşmüştür.”
+“Hem çü ney zehrî vü tiryâkî ki dîd
+Hem çü ney demsâz ü müştâkî ki dîd”
+“Ney gibi hem zehir, hem panzehir,
+Ney gibi hem hemdem, hem müştâkı kim gördü?”
+	
+Türk Mûsikîsi Geleneksel Sistemi’nin her bir âhenk düzeni için îmâl edilmiş neyler o âhengin adıyla anılır.
+1-Bolahenk
+2-Bolahenk-Sipürde Mabeyni
+3-Sipürde
+4-Sipürde-Yıldız Mabeyni
+5-Yıldız
+6-Kız
+7-Kız-Mansur Mabeyni
+8-Mansur
+9-Mansur - Şah Mabeyni
+10-Şah
+11-Davud
+12-Davud-Bolahenk Mabeyni
+Ney, sarı renkli, sert ve sık lifli kamıştan yapılır. Sıcak iklim bölgelerinde ve taban suyu yüksek, sulak yerde yetişen bu kamışın birbirinden az ya da çok farklı cinsleri bulunur. En çok tercih edilen Nil, Âsi ve Ceyhan nehirlerinin kıyılarında yetişen kamışlardır. 
+Neylerin üst ve alt ucuna çatlamayı önlemek için çeşitli metâllerden yapılmış, kamışa sıkıca giren ve adına parazvâne denilen birer bilezik takılır. Neylerin boğum çizgilerine çatlamalara karşı dayanıklılığını arttırmak ve süslemek amacıyla gümüş veya başka madenlerden teller sarılabilmektedir.
+Neylerin üst ucuna (üflenen yerine) sesin daha net çıkması ve dudakların yaralanmaması için başpâre denilen bir parça takılır. Başpâre genellikle manda boynuzundan yapılmakla beraber, fildişinden, abanoz veya şimşir gibi sert ağaçlardan yahut benzer malzemelerden yapılabilir.
+Zaman içinde Kutbü’n-nâyî Hamza Dede, Kutbü’n-nâyî Osman Dede, Kazasker Mustafa İzzet Efendi, Said Dede, Neyzen Yusuf Paşa, Dede Sâlih Efendi, Azîz Dede, Neyzen Tevfik, Neyzen Emin Dede, Rauf Yektâ Bey, Hüseyin Fahreddin Dede, İhsan Azîz Bey, Halil Dikmen, Halil Can, Süleyman Erguner (dede), Hayri Tümer, Gavsî Baykara, Ulvi Erguner, Burhanettin Ökte, Aka Gündüz Kutbay, Ahmet Polatöz, Fuat Türkelman, Doğan Ergin, Selâmi Bertuğ ve diğer ebedî âleme göçen neyzenlerimiz bu sazı ihyâ etmiş, ney sadâsı ile gönüllere nur saçmışlardır.
+Başta Kutbü’n-nâyî Niyâzî Sayın olmak üzere bugün yaşayan neyzenlerimiz de yüksek medeniyetimizin bu seçkin geleneğini geleceğe taşımaktadırlar."
+                android:textColor="#2EFEF7"
+                android:textSize="15dp"
+                android:textStyle="bold|normal"
+                android:typeface="serif" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

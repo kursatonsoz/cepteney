@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/kad1dug"
+        android:layout_width="fill_parent"
+        android:layout_height="108dp"
+        android:layout_marginTop="30dp"
+        android:text="1. Kademe Notalar" />
+
+    <Button
+        android:id="@+id/kad2dug"
+        android:layout_width="fill_parent"
+        android:layout_height="108dp"
+        android:layout_marginTop="50dp"
+        android:text="2. Kademe Notalar" />
+
+    <Button
+        android:id="@+id/kad3dug"
+        android:layout_width="fill_parent"
+        android:layout_height="108dp"
+        android:layout_marginTop="50dp"
+        android:text="3. Kademe Notalar" />
+
+</LinearLayout>

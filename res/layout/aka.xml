@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ana"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/aziz_senol_filiz" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.86" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tire’de doğdu.
+ 
+İlk ney derslerini İzmir’de Sencer Derya’dan aldı. Akademik müzik eğitimini İTÜ Türk Müziği Devlet Konservatuarı’nda 1984 yılında tamamladı. Bu dönem içinde başta Neyzen Fuat Türkelman olmak üzere değerli pek çok hoca ile çalıştı.
+ 
+Sazı ile birçok resital ve solo konserler veren Filiz,18. İstanbul Festivali’ne ud sanatçısı Samim Karaca ile katılarak çalışmalarını ilk kez uluslararası platformda değerlendirdi.
+
+Aziz Şenol Filiz, ney sazını ve klasik Türk müziğini genç kuşaklara gereken hassasiyetle tanıtabilmek amacı ile 1980’li yıllarından bu yana üniversitelerde gençlere yönelik konserler hazırladı.
+
+1983 yılında İstanbul Devlet Klasik Türk Müziği Korosu’nda saz sanatçısı olarak göreve başladı.
+
+1990 yılında Birol Yayla ile birlikte oluşturdukları, “Yansımalar” adlı toplulukla katıldıkları pek çok konser ve dinletilerde kendilerine ait müziklerin yanı sıra geleneksel Türk müziği eserlerine de yer vermişlerdir. Bu toplulukla Türkiye içinde ve Türkiye dışında pek çok festival konserine katıldılar. Aynı toplulukla 1991 yılında “Yansımalar”, 1995 yılında “Bab-ı Esrar”, 2000 yılında “Serzeniş”, 2001 yılında “”Vuslat” 2004 yılında “Pervane”  adlarında beş albümleri yayınlandı.
+
+Aziz Şenol Filiz ayrıca 1996 – 2002 yılları arasında bir grup arkadaşı ile oluşturduğu “Bezmara” müzik topluluğu ile dönemin çalgıları ile 1500 – 1750 yıllarına ait eserleri yorumladıkları konserler verdiler. Bu çalışmalarından örnekleri “Topkapı’nın İhtişamı”(1998) ve “Yitik Sesin Peşinde” (2000), “Mecmuadan Saz ve Söz” (2002) albümlerde topladılar.
+
+Bunun dışında Aziz Şenol Filiz, Birol Yayla ile birlikte yorumcu olarak kendilerinin de bulunduğu projelerinde Samim Karaca, Taner Sayacıoğlu ve Lütfiye Özer’le birlikte geleneksel Türk Müziği’ne ait örnekleri “Mahur”(1997) ve “Miras”(2000) adlı albümlerde topladılar.
+
+Aziz Şenol Filiz, Birol Yayla ile birlikte Münip Utandı’nın ilk solo albümü olan “Aynalıkavak’tan Kalamış’a” ve “Boğaziçi” albümlerini,  büyük tanbur ustası Necdet Yaşar’ın Türkiye’de yayınlanan ilk albümü “Geçmişten Bugüne Necdet Yaşar” albümlerini projelendirmiş ve yapımcılıklarını üstlenmişlerdir.
+
+1999 – 2000 yılları arasında BRT televizyonunda Birol Yayla ile birlikte “Gelenekten Geleceğe Yansımalar“ programını hazırlayıp sundular. 60 bölüm devam eden bu programlarında değerli pek çok müzisyen ile beraber oldular. Aynı adla hazırladıkları programı 2002 – 2003 yıllarında TRT 2 ‘de, 2007 yılında Kral TV de hazırlayıp sundular.
+
+Aziz Şenol Filiz’in müzik danışmanlığında hazırlanan “Neyzen Tevfik” 2001 yılında, babası Lütfi Filiz’e ait bestelerin yer aldığı “Noktanın Sonsuzluğu” isimli ilahiler albümü 2002 yılında, Yapımını üstlendiği “NEY” başlığı ile yayınlanan neyzenler antolojisi 2004 yılında, Birol Yayla ile yapımını üstlendiği Niyazi Sayın – Necdet Yaşar ikilisinin eski kayıtlarından hazırladıkları albüm 2005 yılında yayınlanmıştır.
+
+Şenol Filiz’in caz müzisyeni Önder Focan ile birlikte hazırladıkları “Swing A La Turc” albümü 2007 yılında yayınlandı.
+
+İlk ney hocası Sencer Derya’ya ait olan ney öğreti notlarını derleyerek hocası adına “Ney Öğrenim Kitabı”nı hazırladı (2008).
+
+2008 yılında yayınlanan “Karagöz ve Hayal Şarkıları” adlı kitaplı albüm çalışmasının yapımcılığını üstlenmiştir.
+
+Şenol Filiz 2009 Muhsin Ertuğrul Tiyatro Ödülleri En iyi oyun müziği ödülünü Birol Yayla ile birlikte paylaşmıştır.
+
+Yıllardır hayalini kurduğu Türkiye’nin yetiştirdiği değerli kırk neyzeni bir araya getirdiği “Kırk Ney Bir Nefes” isimli projesiyle 2009 yılında İstanbul ve Bursa’da konserler vermiştir.
+
+Merhum neyzen Aka Gündüz Kutbay’ın 30.ölüm yıldönümü münasebetiyle seçme eserlerinden oluşan kitaplı albüm “Aşk” adıyla; merhum kasidehan Kâni Karaca’nın Aka Gündüz Kutbay ile birlikte icra ettikleri özel ev kayıtlarından oluşan “Meşk” adlı kitaplı albümü 2009 yılında hazırlamıştır.
+
+
+ "
+                android:textColor="#ffffff"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

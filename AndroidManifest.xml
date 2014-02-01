@@ -1,0 +1,347 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.neymetod"
+    
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".CepteNey"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+          <activity
+            android:name=".ekran2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.EKRANIKI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".neyveneyzen"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.NEYVE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".neyzen"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.NEY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+       
+       
+        
+        <activity
+            android:name=".nota"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.NOTAA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ahmett"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.AHMETT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity><activity
+            android:name=".akaa"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.AKAA" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".niyazii"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.NIYAZI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".kad1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.KAD11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".kad2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.KAD22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".kad3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.KAD33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".kad4"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.KAD44" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".fa1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.FA11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".mi1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.MI11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".fadi1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.FADI11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".re1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.RE11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".do1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.DO11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".dodi1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.DODI11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".si1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SI11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sibe1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SIBE11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".la1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.LA11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sol1"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SOL11" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name=".re2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.RE22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name=".do2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.DO22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name=".dodi2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.DODI22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+          <activity
+            android:name=".si2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SI22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         
+           <activity
+            android:name=".sibe2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SIBE22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         
+            <activity
+            android:name=".la2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.LA22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+           
+             <activity
+            android:name=".sol2"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SOL22" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+             <activity
+            android:name=".la3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.LA33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+           
+            
+        
+             <activity
+            android:name=".fa3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.FA33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+             <activity
+            android:name=".fadi3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.FADI33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+             <activity
+            android:name=".mi3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.MI33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sol3"
+            android:label="@string/title_activity_splash_ekran" >
+            <intent-filter>
+                <action android:name="com.example.neymetod.SOL33" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       
+           
+    </application>
+
+</manifest>
